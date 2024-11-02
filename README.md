@@ -1,0 +1,2 @@
+# Snake-Game-Reinforcement-Leaning-Using-Deep-Q-Learning-DQN-
+This project uses Deep Q-Learning (DQN) to train an AI agent to play Snake autonomously. Implemented with Python, Pygame, and PyTorch, the agent learns to navigate, consume food, and avoid obstacles through experience replay and a reward system. Results highlight DQN's success in dynamic environments, showcasing reinforcement learning's potential.
